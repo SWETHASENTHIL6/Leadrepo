@@ -10,7 +10,7 @@ public class gitpractise_2_class {
 
 		System.out.println("she's genious");
 
-		System.out.println("above statements are false");
+		System.out.println("above statements are true");
 
 	}
 
